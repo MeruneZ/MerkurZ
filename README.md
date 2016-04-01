@@ -7,7 +7,7 @@
 
 **MeruneZ**
 
-<img sct=http://www.revolutionradiomiami.com/wp-content/uploads/2016/01/headhunterz.jpg></img>
+<img src=http://www.revolutionradiomiami.com/wp-content/uploads/2016/01/headhunterz.jpg></img>
 
 * *Artist: Headhunterz*
 * **Plaadifirma: Spinnin’ Records**
